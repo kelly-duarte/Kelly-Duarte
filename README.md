@@ -1,7 +1,7 @@
 <h2 align="left">Hello World, I'm Kelly!</h2>
 
-- Estudante de Desenvolvimento Web
-- Buscando aprimorar habilidades Front-end & Back-end
+- Estudante de Ciência de Dados;
+- Buscando aprimorar habilidades em programação de forma pratica;
 - Colaborando em projetos acadêmicos e desafios práticos! 🧡 
 
 ---
